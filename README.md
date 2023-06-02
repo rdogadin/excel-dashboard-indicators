@@ -1,12 +1,12 @@
-# Interactive Excel Dashboard with Dynamic Data
+## Interactive Excel Dashboard with Dynamic Data
 
-## Description
+### Description
 The interactive dashboard is built in Excel and demonstrates how a drop-down menu can be used to view economic indicators by toggling between three different countries. The aggregated data will dynamically adjust depending on the selected country. Charts will adapt to visualize the updated data in the table array, and finally, dynamic titles will reflect the selected country.
 
-## Dependencies
+### Dependencies
 Excel 2021
 
-## Functions
+### Functions
 XLOOKUP()  
 SUMIFS()  
 INDEX()  
@@ -14,7 +14,7 @@ MATCH()
 COUNTA()  
 OFFSET()  
 
-## Data Sources
+### Data Sources
 FDI
   * OECD FDI Statistics
 
